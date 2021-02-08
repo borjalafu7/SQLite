@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="add">Añadir</string>
+    <string name="empty_fields">Hay campos vacíos</string>
+</resources>
